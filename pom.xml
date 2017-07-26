@@ -192,7 +192,7 @@
     </dependencies>
 
     <build>
-        <finalName>DevBase</finalName>
+        <finalName>Dev</finalName>
         <resources>
             <resource>
                 <directory>src/main/java</directory>
